@@ -14,8 +14,5 @@
   ],
   "author": "",
   "license": "ISC",
-  "type": "module",
-  "dependencies": {
-    "@blt/utils": "github:Nachiket-Roy/blt-utils"
-  }
+  "type": "module"
 }
