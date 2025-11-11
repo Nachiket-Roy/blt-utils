@@ -5,7 +5,7 @@ Reusable utility helper functions for the BLT ecosystem.
 ## Installation
 
 ```bash
-npm install @blt/utils
+npm install git+https://github.com/Nachiket-Roy/blt-utils
 ```
 
 ## Usage

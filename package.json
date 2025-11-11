@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["blt", "utils", "date", "helpers"],
+  "keywords": [
+    "blt",
+    "utils",
+    "date",
+    "helpers"
+  ],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@blt/utils": "github:Nachiket-Roy/blt-utils"
+  }
 }
