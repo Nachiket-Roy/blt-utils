@@ -1,13 +1,13 @@
 {
-  "name": "blt-util",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "@blt/utils",
+  "version": "0.0.1",
+  "description": "Utility helper functions for the BLT ecosystem",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["blt", "utils", "date", "helpers"],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "module"
 }
